@@ -1,0 +1,40 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/Run-buddy-thumb.jpg",
+            "title": "The Runner's Friend",
+            "description": "This app exhibits the use of html and css to create a very inviting webpage easy to use for users.",
+            "url": "https://kmparrish.github.io/run-buddy/"
+        },
+        {
+            "cover": "/portfolio/1/weather.png",
+            "title": "Weather App",
+            "description": "This weather application uses an API which allows the user to search for a city and receive a weather report for a given day/week.",
+            "url": "https://kmparrish.github.io/weather-dashboard/"
+        },
+        {
+            "cover": "/portfolio/1/employee-tracker-5.png",
+            "title": "Employee Tracker",
+            "description": "Backend application that uses NPM, node.js, inquirer.js, and MySQL to track employees along wit htheir salaries and roles.",
+            "url": "https://github.com/KMParrish/Employee-Tracker"
+        },
+        {
+            "cover": "/portfolio/1/login-screen.png",
+            "title": "Inventory Tracker",
+            "description": "This app was a group project that used MySQL to keep track of the name and amounts of parts in a database. A login and logout system is also in tact and allows the tracking of user soecific data.",
+            "url": "https://vast-spire-69430.herokuapp.com/"
+        },
+        {
+            "cover": "/portfolio/1/quiz-app.png",
+            "title": "Quiz Generator",
+            "description": "This app calls an API to generate random quiz questions which then gives a score to the user after the quiz is over.",
+            "url": "https://quinn9111.github.io/project-quiz/"
+        },
+        {
+            "cover": "/portfolio/1/work-day.png",
+            "title": "Work Scheduler",
+            "description": "App that allows the user to plan out events for a given hour of the day. The present hour is marked in red, with the past hours grayed out and the future hours in green",
+            "url": "https://kmparrish.github.io/work-day-scheduler/"
+        }
+    ]
+}
