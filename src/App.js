@@ -11,12 +11,12 @@ function App() {
   return (
     <>
       <Routes>
-        <Route path="/" element={<Layout />}>
+        <Route path="/react-pf" element={<Layout />}>
           <Route index element={<Home />} /> 
-          <Route path="about" element={<About />} />
-          <Route path="contact" element={<Contact />} />
-          <Route path="portfolio" element={<Portfolio />} />
-          <Route path="dashboard" element={<Dashboard />} />
+          <Route path="/react-pf/about" element={<About />} />
+          <Route path="/react-pf/contact" element={<Contact />} />
+          <Route path="/react-pf/portfolio" element={<Portfolio />} />
+          <Route path="/react-pf/dashboard" element={<Dashboard />} />
         </Route>
       </Routes>
     </>
