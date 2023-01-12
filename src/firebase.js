@@ -5,14 +5,14 @@ import { getStorage } from 'firebase/storage';
 import { getFirestore } from 'firebase/firestore/lite';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCW_GYlXexQATv8fm71XcwHR182dOaA-hI",
-  authDomain: "react-portfolio-f7eba.firebaseapp.com",
-  projectId: "react-portfolio-f7eba",
-  storageBucket: "react-portfolio-f7eba.appspot.com",
-  messagingSenderId: "836884696751",
-  appId: "1:836884696751:web:a76104b46751283cea0e5a",
-  measurementId: "G-QRSS8QQ2Z7"
-};
+    apiKey: "AIzaSyBY92mZBYRDyDyHKaLCfBAoBUdtPK-Edh0",
+    authDomain: "react-pf-c7f11.firebaseapp.com",
+    projectId: "react-pf-c7f11",
+    storageBucket: "react-pf-c7f11.appspot.com",
+    messagingSenderId: "564577392025",
+    appId: "1:564577392025:web:5d47e75b0122e6eb342f08",
+    measurementId: "G-RCFL042E91"
+  };
 
 
 

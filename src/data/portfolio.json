@@ -1,7 +1,7 @@
 {
     "portfolio": [
         {
-            "cover": "/portfolio/1/Run-buddy-thumb.jpg",
+            "cover": "portfolio/1/Run-buddy-thumb.jpg",
             "title": "The Runner's Friend",
             "description": "This app exhibits the use of html and css to create a very inviting webpage easy to use for users.",
             "url": "https://kmparrish.github.io/run-buddy/"

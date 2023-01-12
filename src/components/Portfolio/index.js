@@ -6,6 +6,7 @@ import { getDocs, collection } from 'firebase/firestore';
 import portfolioData from '../../data/portfolio.json'
 import { db } from '../../firebase';
 
+
 const Portfolio = () => { 
     const [letterClass, setLetterClass] = useState('text-animate');
     const [portfolio, setPortfolio] = useState([]);
