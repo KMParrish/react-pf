@@ -35,6 +35,13 @@
             "title": "Work Scheduler",
             "description": "App that allows the user to plan out events for a given hour of the day. The present hour is marked in red, with the past hours grayed out and the future hours in green",
             "url": "https://kmparrish.github.io/work-day-scheduler/"
+        },
+        {
+            "cover": "portfolio/1/coffee-wallpaper-full-hd",
+            "title": "SIP Happens",
+            "description": "App that uses graphql to provide an API of different coffees the user may purchase. This app showcases a modernized front end with easy to use framework and navigation.",
+            "url": "https://git.heroku.com/sheltered-bayou-22785.git"
         }
+    
     ]
 }
